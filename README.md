@@ -11,7 +11,7 @@ There are a couple of thing you need to configure before running the bot:
 3. Make sure that the timezone of the computer is correct.
 
 ## Installation
-* Clone the repository locally ``` ```
+* Clone the repository locally ```https://github.com/javier-arango/class-attender-bot```
 
 
 ## Technologies
