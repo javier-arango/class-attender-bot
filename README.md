@@ -21,5 +21,5 @@ Project is created with:
 * Schedule version: 0.6.0
 * Google Chrome version: 87.0.4280.88
 
-## Attention
+## Note
 **This project is for educational purposes only - I will no be responsible for any issues related to your attendance or anything about your class**. I create this bot to learn how to use [selenium webdriver](https://www.selenium.dev) automation tools for the Chrome browser.
