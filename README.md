@@ -12,6 +12,7 @@ There are a couple of thing you need to configure before running the bot:
 
 ## Installation
 * Clone the repository locally ```https://github.com/javier-arango/class-attender-bot```
+* Install requirements.txt ```pip install -r requirements.txt```
 
 
 ## Technologies
