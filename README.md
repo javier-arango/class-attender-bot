@@ -14,13 +14,12 @@ There is a couple of things you need to configure before running the bot:
 * Clone the repository locally ```git clone https://github.com/javier-arango/class-attender-bot```
 * Install requirements.txt ```pip install -r requirements.txt```
 
-
 ## Technologies
 Project is created with:
 * Python version: 3.7.5
 * Selenium version: 3.141.0
 * Schedule version: 0.6.0
-
+* Google Chrome version: 87.0.4280.88
 
 ## Attention
 **This project is for educational purposes only - I will no be responsible for any issues related to your attendance or anything about your class**. I create this bot to learn how to use [selenium webdriver](https://www.selenium.dev) automation tools for the Chrome browser.
