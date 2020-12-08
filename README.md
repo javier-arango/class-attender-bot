@@ -10,6 +10,9 @@ There are a couple of thing you need to configure before running the bot:
 * Example - ```common_names = ['VIRTUAL ROOM', 'BB Coll Ultra']```
 3. Make sure that the timezone of the computer is correct.
 
+## Installation
+* Clone the repository locally ``` ```
+
 
 ## Technologies
 Project is created with:
