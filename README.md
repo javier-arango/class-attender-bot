@@ -1,4 +1,5 @@
 # MDC Online Class Attender :robot:
+> Miami Dade Collage Class Attender
 
 This bot can automatically join online classes that are held in [MDC BlackBoard Collaborate](https://mdc.blackboard.com/). The bot will join the class according to the given schedule. You could use this bot if your professors put the link of the classes in BlackBoard. If you have to join the classes by a link sent from the professor you could use this project as a guide and create your bot. 
 
