@@ -2,8 +2,8 @@
 
 This bot can automatically join online classes that are held in [MDC BlackBoard Collaborate](https://mdc.blackboard.com/). The bot will join the class according to the given schedule. You could use this bot if your professors put the link of the classes in BlackBoard. If you have to join the classes by a link sent from the professor you could use this project as a guide and create your bot. 
 
-## Configure :gear:
-There is a couple of things you need to configure before running the bot:
+## Setup :gear:
+There is a couple of things you need to setup before running the bot:
 1. Open bot.py, and put your MDC credentials in the CREDS dictionary.
 * Example - ```CREDS = {'email' : 'myemail@gmail.com', 'passwd': 'mypassword'}```
 2. In the same file you will have to change or add the names of how your professor calls the virtual room link.
