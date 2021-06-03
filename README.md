@@ -1,7 +1,7 @@
-# MDC Online Class Attender :robot:
-> Miami Dade Collage Class Attender
+# Online Class Attender :robot:
+> Class Attender
 
-This bot can automatically join online classes that are held in [MDC BlackBoard Collaborate](https://mdc.blackboard.com/). The bot will join the class according to the given schedule. You could use this bot if your professors put the link of the classes in BlackBoard. If you have to join the classes by a link sent from the professor you could use this project as a guide and create your bot. 
+This bot can automatically join online classes that are held in [BlackBoard Collaborate](https://mdc.blackboard.com/). The bot will join the class according to the given schedule. You could use this bot if your professors put the link of the classes in BlackBoard. If you have to join the classes by a link sent from the professor you could use this project as a guide and create your bot. 
 
 ## Instruction :notebook:
 * The first thing that the bot is going to ask you is about entering info about your class schedule. Please provide the correct and exact data that the bot asks you. Here is a [website](https://www.ontheclock.com/convert-military-24-hour-time.aspx) if you don't know how to change standard time to military time 
